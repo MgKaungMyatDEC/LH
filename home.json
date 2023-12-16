@@ -37,7 +37,7 @@
   
    "show_title":"Phin",
    "movie_url":"https://github.com/MgKaungMyatDEC/LH/raw/main/movies.json",
-   "movie_category_url":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
+   "movie_category_url":"https://raw.githubusercontent.com/MgKaungMyatDEC/LH/main/category.json",
   
    "update_title":"Update title",
    "update_icon":"",
